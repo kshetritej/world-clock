@@ -10,7 +10,7 @@ const date = dayjs().format('ddd, MMM MM YYYY')
 tz.innerText = 'Nepal';
 cal.innerText = date.toString()
 
-setInterval(() =>{clock.innerText = time} , 1000)
+setInterval(() =>{clock.innerText = time} , 3000)
 })
 
 
