@@ -1,0 +1,2 @@
+[] User can choose timezone
+[] User can add another clock with different timezone
